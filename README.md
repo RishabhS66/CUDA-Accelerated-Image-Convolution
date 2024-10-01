@@ -1,6 +1,6 @@
 # CUDA-Accelerated Image Convolution with Shared Memory and cuDNN
 ```
-Author: Rishabh Srivastava (rs4489)
+Author: Rishabh Srivastava
 ```
 This repository contains a CUDA-based implementation of image convolution using a set of filters. The project demonstrates the use of parallel processing to accelerate the convolution operation, commonly used in image processing tasks. By leveraging the power of GPUs, the code efficiently applies multiple filters to an image, showcasing significant speed improvements over traditional CPU-based implementations.
 
